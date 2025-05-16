@@ -1,0 +1,3 @@
+/Users/baran.karluk/CLionProjects/MYpassword/cmake-build-debug/CMakeFiles/MySQLXExample.dir
+/Users/baran.karluk/CLionProjects/MYpassword/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/baran.karluk/CLionProjects/MYpassword/cmake-build-debug/CMakeFiles/rebuild_cache.dir

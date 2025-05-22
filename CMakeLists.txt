@@ -16,7 +16,8 @@ link_directories(
 )
 
 # Çıktı dosyasını oluştur
-add_executable(MySQLXExample main.cpp main.h)
+add_executable(MySQLXExample main.cpp
+)
 
 # Kütüphaneleri bağlayın
 target_link_libraries(MySQLXExample
